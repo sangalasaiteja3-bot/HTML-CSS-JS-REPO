@@ -1,8 +1,8 @@
 # HTML, CSS & JavaScript Practical Programs Website
 
 Student Name: S. Sai Teja
-Register Number: __________________
-Class / Section: __________________
+Register Number: 250200438
+Section: 6
 Subject: HTML, CSS & JavaScript
 Assignment: Practical Programs Website
 
